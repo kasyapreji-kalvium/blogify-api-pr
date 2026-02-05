@@ -8,3 +8,5 @@ router.get("/", (req,res) =>{
 });
 
 module.exports = router; //exporting the router object to be used in other files
+
+//src/routes/post.routes.js
